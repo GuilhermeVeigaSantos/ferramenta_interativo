@@ -1,12 +1,12 @@
 
 :root {
     --text-color: hsl(0, 0%, 100%);
-    --card-front-color: hwb(179 64% 20%);
-    --card-back-color: hsl(186, 73%, 32%);
+    --card-front-color: hwb(179 48% 35%);
+    --card-back-color: hsl(186, 76%, 50%);
     }
 
 body {
-    background:hsl(213, 86%, 19%);
+    background:hsl(213, 57%, 41%);
     font-family: Bai Jamjuree;
 }
 
